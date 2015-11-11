@@ -1,34 +1,45 @@
-// dit is een template
-Notulen van de vergadering van projectgroep 10
+Notulen van vergadering 1 van projectgroep 10
 
-Maandag 13 november 2015 13.30-14.15 uur.
+Maandag 13 november 2015 11.45-12.25 uur.
 Aanwezig: Kevin (voorzitter), Remco (notulen) , Jeroen, Jordan.
 Afwezig: -
 
-1. Opening en vaststellen agenda.
-Aan de agenda wordt toegevoegd het punt beschikbaarheid projectruimtes.
-2. Vaststellen notulen vorige vergadering.
-De notulen van de vergadering van ... zijn vastgesteld
-3. Mededelingen.
-Sven is ziek. De verwachting is dat hij morgen weer aan de slag kan.
-4. Bespreking van het functioneel ontwerp
-Met uitzondering van de functie ‘reservering annuleren’ is het ontwerp
-goedgekeurd.
-Indien de beheerder een reservering annuleert, moet degene die
-gereserveerd heeft op de hoogte worden gesteld. Henk past dit aan.
-5. Bespreking van het database-ontwerp
-Het database-ontwerp wordt goedgekeurd.
-6. Planning komende week en toewijzing taken.
-Joris en Mathilde werken aan het bouwen van de functie ‘inloggen en
-registeren’.
-Henk en Sven werken aan het bouwen van functie ‘reserveren’.
-7. (wvttk) Beschikbaarheid projectruimte.
-Projectruimte D02.04 is deze week niet beschikbaar.
-Morgen werken we thuis.
-Joris zal een ruimte reserveren voor woensdag en donderdag en de overige
-leden per e-mail informeren.
-8. Rondvraag.
-Henk heeft hulp nodig met Dream Weaver. Mathilde zal hem daarbij helpen.
-9. Sluiting.
+1. opening:
+Iedereen is aanwezig en op tijd.
+Als extra punt is omgang met documenten toegevoegd aan de punten.
 
-Volgende vergadering is donderdag om 9.00 uur. Locatie nog onbekend. 
+===================================================================
+2. verwachtingen:
+We zitten aardig op 1 lijn met alles.
+De verwachtingen zijn samengevoegd en verwerkt in het teamcontract.
+
+===================================================================
+3. agenda:
+de vergaderagenda moet bijgehouden worden
+afgesproken is dit uiterlijk de zondag voor de nieuwe
+vergadering online te zetten.
+hierin staat waar, hoe laat en welke vergaderpunten.
+
+===================================================================
+4. plan van aanpak:
+De opzet hiervoor zal deze week gemaakt worden.
+
+===================================================================
+5. afspraken over uren invullen:
+Invullen van de gemaakte uren door ieder apart, elke keer na
+het werk meteen invullen in Google Drive.
+
+===================================================================
+6. documenten:
+Documenten bewerken in Google Drive.
+Hier kan makkelijk tegelijkertijd aan worden gewerkt.
+Plus minder conflicten bij het mergen op GitHub.
+Na afloop van een bewerkingssessie meteen in GitHub plaatsen.
+
+===================================================================
+7. afsluiting:
+Het was een goede vergadering iedereen is aan bod gekomen.
+Geen aparte vragen meer.
+Volgende vergadering is volgende week woensdag, Remco zal dan
+de voorzitter zijn.
+Plaats, tijd en agendapunten volgen nog.
